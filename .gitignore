@@ -1,0 +1,15 @@
+# Virtual environments
+env/
+
+# Video files
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.flv
+*.wmv
+
+# Cache and logs
+__pycache__/
+*.pyc
+*.log
