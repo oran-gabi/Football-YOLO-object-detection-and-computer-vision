@@ -8,6 +8,7 @@ This project leverages YOLO object detection and computer vision techniques to d
 ![Output Example](assets/output_video_image_exemple.PNG)
 
 
+
 ## 🔧 Key Features
 
 - Detect players, referees, and ball using YOLOv5/v8 (Ultralytics).
