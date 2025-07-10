@@ -1,15 +1,22 @@
-# Virtual environments
+# Ignore virtual environments
 env/
+.venv/
 
-# Video files
+# Ignore video outputs
 *.avi
 *.mp4
-*.mov
-*.mkv
-*.flv
-*.wmv
+output_videos/
+runs/
 
-# Cache and logs
+# Ignore large libraries
+*.dll
+*.lib
+*.pyd
+*.so
+
+# Cache
 __pycache__/
 *.pyc
-*.log
+
+# VSCode settings
+.vscode/
