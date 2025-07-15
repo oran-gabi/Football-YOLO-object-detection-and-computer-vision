@@ -1,6 +1,9 @@
-# ⚽ Football Player Detection & Tracking with YOLO
+<img width="1755" height="934" alt="12121212" src="https://github.com/user-attachments/assets/d2a4be8f-1a18-4a29-b14a-f97a70293b73" /># ⚽ Football Player Detection & Tracking with YOLO
 
 This project leverages YOLO object detection and computer vision techniques to detect and track football players, referees, and the ball in match footage. It calculates player speed and distance using camera motion and perspective transformation, and distinguishes teams using color-based clustering.
+
+
+![Uploading 12121212.PNG…]()
 
 ---
 
