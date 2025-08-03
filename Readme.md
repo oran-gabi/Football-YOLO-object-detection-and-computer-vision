@@ -101,24 +101,7 @@ Let me know if you'd like:
 - A section on how to run the code locally
 - GIF preview of the tracking in action
 
-Happy to help you polish it even more.
 
-
-
-
-
-
-
-
-
-
-
-ChatGPT said:
-Great! Here’s the updated README.md summary with a License section and credit to Abdullah Tarek.
-
-markdown
-Copy
-Edit
 # ⚽ Football Player Detection & Tracking with YOLO
 
 This project leverages YOLO object detection and computer vision techniques to detect and track football players, referees, and the ball in match footage. It calculates player speed and distance using camera motion and perspective transformation, and distinguishes teams using color-based clustering.
