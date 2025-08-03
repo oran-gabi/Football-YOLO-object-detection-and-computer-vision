@@ -109,8 +109,8 @@ Happy to help you polish it even more.
 
 
 
-You said:
-i want license and credit to Abdullah Tarek 
+
+
 
 
 ChatGPT said:
@@ -195,3 +195,4 @@ Project inspired by Abdullah Tarek
 YOLOv5/YOLOv8 by Ultralytics
 
 Tracking via Supervision Library
+credit to Abdullah Tarek 
